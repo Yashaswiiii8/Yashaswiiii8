@@ -10,7 +10,7 @@ I'm learning to build reliable backend systems: **Go, PostgreSQL, Redis, concurr
 
 - Learning **Go** by building a ladder of small projects, each one adding a layer (HTTP, database, concurrency, queues, Docker)
 - Working through **DSA** alongside it
-- Documenting what I build, and what breaks, on [Twitter/X](https://twitter.com/YOUR_HANDLE)
+- Documenting what I build, and what breaks, on [Twitter/X](https://x.com/yashi_is_trying)
 
 ## Projects
 
