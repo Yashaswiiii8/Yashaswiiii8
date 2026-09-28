@@ -47,8 +47,8 @@ I use AI as a development assistant, but the goal is to understand the code, not
 ## Find me
 
 - GitHub: you're here
-- Twitter/X: [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
-- LinkedIn: [add link](https://www.linkedin.com/in/YOUR_HANDLE)
+- Twitter/X: [@YOUR_HANDLE](https://x.com/yashi_is_trying)
+- LinkedIn: [add link](https://www.linkedin.com/in/yashaswi-861a891b4/)
 
 ---
 
